@@ -33,8 +33,8 @@ The **Macroeconomic Insights Dashboard** is an advanced Android app designed for
    - Click on **Run** in Android Studio to build and deploy the app.
 
 ## Demo Videos
-- [Video 1: App Functionality Overview](#)
-- [Video 2: Data Analysis and AI Interaction](#)
+- [Video 1](https://drive.google.com/file/d/1FZFQL0XXFpGTARK8sGlHoC_1zimltASN/view?usp=sharing)
+- [Video 2](https://drive.google.com/file/d/1kmjEqv4hD7Rjz0qwVF9tqMpE_7_5c8bp/view?usp=sharing)
 
 *Upload or link your demo videos to showcase the project in action.*
 
